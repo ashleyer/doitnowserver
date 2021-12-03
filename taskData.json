@@ -1,0 +1,79 @@
+{
+  "tasks": [
+    {
+      "janRegular": [
+        {
+          "title": "Lions",
+          "detail": "get more, maybe via theft",
+          "deadline": "12.03.2021",
+          "completed": false,
+          "priority_rating": 3
+        },
+        {
+          "title": "Avoid Fame",
+          "detail": "make sure i am not discovered as a new netflix documentary star",
+          "deadline": "12.31.2022",
+          "completed": false,
+          "priority_rating": 4
+        },
+        {
+          "title": "spend don's money",
+          "detail": "when i offed carole's husband i made bank. my pride is getting some new cages!",
+          "deadline": "12.25.2021",
+          "completed": false,
+          "priority_rating": 5
+        }
+      ],
+      "newHampshireWoman": [
+        {
+          "title": "look good",
+          "detail": "get a new tshirt with a bikini airbrushed on the front",
+          "deadline": "06.25.2022",
+          "completed": false,
+          "priority_rating": 5
+        },
+        {
+          "title": "no more dunkie's trips to save for cruise",
+          "detail": "don't go to dunkie's more than once a day",
+          "deadline": "03.05.2022",
+          "completed": false,
+          "priority_rating": 4
+        },
+        {
+          "title": "get a new quirky vanity plate",
+          "detail": "i gotta up my car game.",
+          "deadline": "12.07.2021",
+          "completed": false,
+          "priority_rating": 5
+        }
+      ],
+      "howeySmith": [
+        {
+          "title": "make ppearance in 100 coding projects",
+          "detail": "the minimum to stay on trend is 75. I will be in 100 apps by neat year's end.",
+          "deadline": "12.31.2022",
+          "completed": false,
+          "priority_rating": 5
+        },
+        {
+          "title": "get better zoom backgrounds than my alter-ego, Michael Howey",
+          "detail": "he is making a run for my image as the cool one. he will be stopped.",
+          "deadline": "07.05.2022",
+          "completed": false,
+          "priority_rating": 4
+        },
+        {
+          "title": "remain incognito",
+          "detail": "i am definitely real, but no one has ever seen me and I like it that way.",
+          "deadline": "01.20.2022",
+          "completed": false,
+          "priority_rating": 3
+        }
+    ]
+    }
+  ]
+}
+
+
+
+
