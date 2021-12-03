@@ -1,4 +1,5 @@
 module.exports = {
-  games: require('./gamesController'),
+  tasks: require('./tasksController'),
   users: require('./usersController'),
+  secrets: require('./secretsController'),
 };

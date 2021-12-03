@@ -1,61 +1,22 @@
 {
     "users": [
         {
-            "username": "JanRegular",
+            "username": "janRegular",
             "email": "lionqueen@ihatetigers.com",
             "password": "netflixsucks",
-            "icon": "https://cdn4.vectorstock.com/i/1000x1000/02/03/retro-hipster-fashion-animal-lion-woman-model-vector-19630203.jpg",
-            "signup_date": "12.01.2021",
-            "secrets": [
-                {
-                    "type": "Schema.Types.ObjectId",
-                    "ref": "Secret"
-                }
-            ],
-            "tasks": [
-                {
-                    "type": "Schema.Types.ObjectId",
-                    "ref": "Task"
-                }
-            ]
+            "icon": "https://cdn4.vectorstock.com/i/1000x1000/02/03/retro-hipster-fashion-animal-lion-woman-model-vector-19630203.jpg"
         },
         {
             "username": "newHamphireWoman",
             "email": "ilovejail@oppositeofflorida.com",
             "password": "nakedisbetter",
-            "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6a4bym0CTCPn3EfXTJZruAtpQj-BbkJtWxw&usqp=CAU",
-            "signup_date": "12.01.2021",
-            "secrets": [
-                {
-                    "type": "Schema.Types.ObjectId",
-                    "ref": "Secret"
-                }
-            ],
-            "tasks": [
-                {
-                    "type": "Schema.Types.ObjectId",
-                    "ref": "Task"
-                }
-            ]
+            "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6a4bym0CTCPn3EfXTJZruAtpQj-BbkJtWxw&usqp=CAU"
         },
         {
-            "username": "Howey Smith",
+            "username": "howeySmith",
             "email": "therealhowey@characters.com",
             "password": "iamtotallyreal",
-            "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKVF9IrbHimE8LyAOYRQmtwURiROr0XiTgWA&usqp=CAU",
-            "signup_date": "12.1.2021",
-            "secrets": [
-                {
-                    "type": "Schema.Types.ObjectId",
-                    "ref": "Secret"
-                }
-            ],
-            "tasks": [
-                {
-                    "type": "Schema.Types.ObjectId",
-                    "ref": "Task"
-                }
-            ]
+            "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKVF9IrbHimE8LyAOYRQmtwURiROr0XiTgWA&usqp=CAU"
         }
     ]
 }

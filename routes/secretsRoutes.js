@@ -1,7 +1,7 @@
 const router = require("express").Router();
 const ctrl = require("../controllers");
 
-const authRequired = require("../middleware/authRequired");
+
 
 // routes
 router.get('/', ctrl.secrets.index);

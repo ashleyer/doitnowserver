@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const connectionString = process.env.MONGODB_URI || 'mongodb://localhost:27017/gamelib';
+const connectionString = process.env.MONGODB_URI || "mongodb+srv://doit:orelse@cluster0.cq1ss.mongodb.net/doitorelse?retryWrites=true&w=majority";
 
 const configOptions = {
   useNewUrlParser: true,

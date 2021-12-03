@@ -4,13 +4,9 @@ const ctrl = require("../controllers");
 
 const authRequired = require("../middleware/authRequired");
 
-// routes
-router.get('/', ctrl.users.index);
-router.get('/:id', ctrl.users.show);
-router.post('/', ctrl.users.create);
-router.put('/:id', ctrl.users.update);
-router.delete('/:id', ctrl.users.destroy);
 
+router.post("/register", ctrl.users.register);
+router.post("/login", ctrl.users.login);
+router.get("/profile", authRequired, ctrl.users.profile);
 
-// exports
 module.exports = router;

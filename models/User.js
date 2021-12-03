@@ -23,8 +23,7 @@ const userSchema = new Schema({
     type: Date,
     default: Date.now,
   },
-  secrets: [{ type: Schema.Types.ObjectId, ref: Secret }],
-  tasks: [{ type: Schema.Types.ObjectId, ref: Task }],
+
 });
 
 userSchema.set("toJSON", {
