@@ -4,10 +4,6 @@ const Schema = mongoose.Schema;
 const SecretSchema = new Schema({
     title: String,
     detail: String,
-    deadline: {
-        type: Date,
-        Default: Date.now,
-    },
     recipient_email: String,
     fluster_factor: { type: Number, min: 1, max: 5 },
 

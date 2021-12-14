@@ -17,4 +17,4 @@ module.exports = {
   Task: require('./Task'),
   User: require('./User'),
   Secret: require('./Secret')
-};
+}
